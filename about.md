@@ -13,51 +13,31 @@ QUALIFICATION HIGHLIGHTS:
 - 3 years’ experiences as a field service engineer in IBM Subsidiary Company.
 - 6 year’ experiences as a technical support engineer Intralot.
 
-Programs highlights:
+PROGRAMS HIGHLIGHTS:
 - Software development in Java, C#, Spring, Android
 - Web technologies and web application development (HTML, CSS, JavaScript, jQuery, jQuery Mobile, Bootstrap)
 - Relational database management design and management
 - Networking, sub netting, static and dynamic routing and virtual LAN
 
-## Education
+## EDUCATION
 
 * Computer Programming Diploma from Sheridan College.
 * Bachelor of Electronic and IT Media Engineering from Seoul National University of Technology.
 
 
-## Roles
+## ROLES
 
 * Technical Support engineer, Intralot.
 * Field Service Engineer, IBM Subsidiary Company.
 
-## Skills
+## SKILLS
 
 * **Skill 1** - `Java` / `JSP` / `Spring` / `Android`
 * **Skill 2** - `C#` / `ASP.NET` / `ADO.NET`
 * **Skill 3** - `JavaScript` / `CSS` / `HTML5` / `JQuery`/ `JQuery Mobile`/ `JSON`/ `Ajax`
 * **Skill 4** - `Orable` / `MS SQL` / `MY SQL` 
 * **Skill 5** - `Linux` / `Windows Server 2012R2`
-
-    
-    
-## Achievements
-
-
-* [**This is my first achievement**](#) 
    
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-***
-
-* [**This is my second achievement**](#) 
-
-    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-***
-
-* [**This is my third achievement**](#) 
-
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
 
 
 ## Contact me
