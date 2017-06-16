@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-### [Java Android App Project, 2017](https://github.com/YounggilLee/OmegaA) 
+### [Java Android App Project, 2017](https://github.com/YounggilLee/OmegaA/wiki) 
 * Create a chatting app that allows users communicate each other.
 * Authorized users and Store data using Firebase.
 * Displayed chatting context using Recyclerview.
