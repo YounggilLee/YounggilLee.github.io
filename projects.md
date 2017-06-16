@@ -4,29 +4,36 @@ title: Projects
 permalink: /projects/
 ---
 
-### [Project 1](https://github.com/tux4kids/tuxmania) 
-Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+### [Java Android App Project, 2017](https://github.com/YounggilLee/OmegaA) 
+* Create a chatting app that allows users communicate each other.
+* Authorized users and Store data using Firebase.
+* Displayed chatting context using Recyclerview.
+* Implement navigation view using Fragment.
 
 ***
 
-### [Project 2](https://github.com/AkshayAgarwal007/Moodly)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+### [Java Spring MVC Application Project, 2017](https://github.com/YounggilLee/OmegaA/wiki)
+* Built an application that allows users to write, view, and modify contents.
+* Stored data in Oracle DB using JDBC.
 
 ***
 
-## Other Projects
+### [C# ASP.NET Application Project, 2017](https://github.com/YounggilLee/OmegaC/wiki)
+* Designed and created an application to manage vehicles, clients and invoices etc., on car dealer shop.
+* Implemented navigation bar using user controls.
+* Encrypted user password using MD5.
+* Saved data using ADO.NET.
 
-### This Could Be Another Project Name
+***
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-   
-### This Could Be Yet Another Project Name
+### [Java EE MVC Application Project, 2016](https://github.com/YounggilLee/Signup_Application/wiki)
+* Constructed a wireframe of a login-based web application using MVC Servlet, JSP with EL, JSTL and JavaBean.
+* Encrypted user password using Bcript.
+* Accessed MySQL DB using JDBC.
 
-   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+***
 
 
 ## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[iamleeyounggil@gmail.com](mailto:iamleeyounggil@gmail.com)

@@ -9,20 +9,12 @@ I am looking for a job opportunity as a software developer.
 
 QUALIFICATION HIGHLIGHTS:
 
-Computer Programmer Diploma at Sheridan College in April 2017
+- Computer Programmer Diploma at Sheridan College in April 2017
 - 3 years’ experiences as a field service engineer in IBM Subsidiary Company.
 - 6 year’ experiences as a technical support engineer Intralot.
 
-TECHNICAL SKILLS:
-
-Programming Languages: Java (JSTL, J2EE Servlets), C#, VB.NET, and ASP, Android
-Web: HTML5, CSS3, JavaScript, XML, Web Services, jQuery, jQuery Mobile, JSON 
-Database: MS SQL, Oracle, PL/SQL, and JDBC 
-OS: Windows Server 2012R2, and Linux (Ubuntu 16.04) 
-IDE: NetBeans 8.0, Eclipse Jee Marse, STS, SQL developer 4.0, SQL Server Management Studio 2014, Visual Studio 2013, MS Visio 2013, MS Project 2013, and MS Office 2016
-
 Programs highlights:
-- Software development in Java, C#, Android
+- Software development in Java, C#, Spring, Android
 - Web technologies and web application development (HTML, CSS, JavaScript, jQuery, jQuery Mobile, Bootstrap)
 - Relational database management design and management
 - Networking, sub netting, static and dynamic routing and virtual LAN
