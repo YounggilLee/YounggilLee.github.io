@@ -7,13 +7,13 @@ permalink: /about/
 Hello, My name is Gil Lee. I have multiple years of work experience as a field engineer and technical support engineer. I graduated from Sheridan college in 2017 and majored in Computer Programmer.
 I am looking for a job opportunity as a software developer.
 
-### QUALIFICATION HIGHLIGHTS:
+** QUALIFICATION HIGHLIGHTS:
 
 - Computer Programmer Diploma at Sheridan College in April 2017
 - 3 years’ experiences as a field service engineer in IBM Subsidiary Company.
 - 6 year’ experiences as a technical support engineer Intralot.
 
-### PROGRAMS HIGHLIGHTS:
+** PROGRAMS HIGHLIGHTS:
 - Software development in Java, C#, Spring, Android
 - Web technologies and web application development (HTML, CSS, JavaScript, jQuery, jQuery Mobile, Bootstrap)
 - Relational database management design and management
