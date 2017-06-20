@@ -3,6 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+##Please click the title of project to see more detail!!
 
 ### [Java Android App Project, 2017](https://github.com/YounggilLee/OmegaA/wiki) 
 * Create a chatting app that allows users communicate each other.
