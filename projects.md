@@ -13,7 +13,7 @@ permalink: /projects/
 
 ***
 
-### [Java Spring MVC Application Project, 2017](https://github.com/YounggilLee/OmegaA/wiki)
+### [Java Spring MVC Application Project, 2017](https://github.com/YounggilLee/OmegaS/wiki)
 * Built an application that allows users to write, view, and modify contents.
 * Stored data in Oracle DB using JDBC.
 
