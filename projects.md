@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 <span style="color:red">*Please click the title of project to see more detail!!*</span>
 
-### [C# ASP.NET Core MVC6 Project, 2017](https://github.com/YounggilLee/OmegaA/wiki) 
+### [C# ASP.NET Core MVC6 Project, 2017](https://github.com/YounggilLee/AspNetBoard/wiki) 
 * Create a board application that allows users post contents
 * Built data base using entity framework
 * Displayed pages using bootstrap
