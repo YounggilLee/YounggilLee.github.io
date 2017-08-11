@@ -33,7 +33,7 @@ I am looking for a job opportunity as a software developer.
 ### SKILLS
 
 * **Skill 1** - `Java` / `JSP` / `Spring` / `Android`
-* **Skill 2** - `C#` / `ASP.NET` / `ADO.NET`
+* **Skill 2** - `C#` / `ASP.NET` / `ADO.NET` / `ASP.NET Core MVC6`
 * **Skill 3** - `JavaScript` / `CSS` / `HTML5` / `JQuery`/ `JQuery Mobile`/ `JSON`/ `Ajax`
 * **Skill 4** - `Orable` / `MS SQL` / `MY SQL` 
 * **Skill 5** - `Linux` / `Windows Server 2012R2`
