@@ -5,6 +5,14 @@ permalink: /projects/
 ---
 <span style="color:red">*Please click the title of project to see Code and more detail!!*</span>
 
+### [React-Redux Project, 2017 ](https://github.com/YounggilLee/Redux-Blog) 
+* Designed and created an application to allows users post contents 
+* Using Axios for requesting data(Asynchronous)
+* Authorized user data using Redux Form
+* Saved data using Redux Blog(http://reduxblog.herokuapp.com)
+
+***
+
 ### [C# ASP.NET Core MVC6 Project, 2017](https://github.com/YounggilLee/AspNetBoard/wiki) 
 * Create a board application that allows users post contents
 * Built data base using entity framework
