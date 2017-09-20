@@ -15,7 +15,7 @@ I am looking for a job opportunity as a software developer.
 
 ### PROGRAMS HIGHLIGHTS:
 - Software development in Java, C#, Spring, Android
-- Web technologies and web application development (HTML, CSS, JavaScript, jQuery, jQuery Mobile, Bootstrap)
+- Web technologies and web application development (HTML, CSS, JavaScript,React, Redux, jQuery, Node.js, jQuery Mobile, Bootstrap)
 - Relational database management design and management
 - Networking, sub netting, static and dynamic routing and virtual LAN
 
@@ -34,8 +34,8 @@ I am looking for a job opportunity as a software developer.
 
 * **Skill 1** - `Java` / `JSP` / `Spring` / `Android`
 * **Skill 2** - `C#` / `ASP.NET` / `ADO.NET` / `ASP.NET Core MVC6`
-* **Skill 3** - `JavaScript` / `CSS` / `HTML5` / `JQuery`/ `JQuery Mobile`/ `JSON`/ `Ajax`
-* **Skill 4** - `Orable` / `MS SQL` / `MY SQL` 
+* **Skill 3** - `JavaScript` / `CSS` / `HTML5` / `JQuery`/ `JQuery Mobile`/ `JSON`/ `Ajax` / `React` / `Redux`
+* **Skill 4** - `Orable` / `MS SQL` / `MY SQL` / `MongoDB`
 * **Skill 5** - `Linux` / `Windows Server 2012R2`
    
 
