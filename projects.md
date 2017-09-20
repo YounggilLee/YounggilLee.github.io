@@ -51,6 +51,14 @@ permalink: /projects/
 
 ***
 
+### [Java SE Application Project, 2016](https://github.com/YounggilLee/OmegaF/wiki)
+* Created an application to manage game titles on game rental shop.
+* Composed display interface using JavaFx.
+* Stored data on a file using ArrayList.
+
+
+***
+
 
 ## Contact me
 
