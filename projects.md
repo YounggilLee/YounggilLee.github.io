@@ -17,6 +17,8 @@ Designed and created applications to allow people to check customers’ trends b
 *	Used sendgrid to send email to customers
 *   Managed version using GitHub
 
+***
+
 ### [Blog_ React & Redux, 2017 ](https://github.com/YounggilLee/Redux_Blog) 
 Designed and created an application to allows users post contents 
 * Using Axios for requesting data(Asynchronous)
@@ -25,7 +27,7 @@ Designed and created an application to allows users post contents
 
 ***
 
-### [Blog_ ASP.NET Core, 2017](https://github.com/YounggilLee/AspNetBoard/wiki) 
+### [Online-Bulletin-Board ASP.NET Core, 2017](https://github.com/YounggilLee/Online-Bulletin-Board) 
 Create a board application that allows users post contents
 * Built data base using entity framework
 * Displayed pages using bootstrap
