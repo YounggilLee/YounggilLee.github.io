@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Hello, My name is Gil Lee. I have multiple years of work experience as a field engineer and technical support engineer. I graduated from Sheridan college in 2017 and majored in Computer Programmer.
-I am looking for a job opportunity as a software developer.
+Hello, My name is Gil Lee.I graduated from Sheridan college in 2017 and majored in Computer Programmer. Also, I have multiple years of work experience as a field engineer and technical support engineer. I am working Farmhealthmonitor as a software developer. 
 
 ### QUALIFICATION HIGHLIGHTS:
 
-- Computer Programmer Diploma at Sheridan College in April 2017
+- Current working as a software developer.
+- Computer Programmer Diploma at Sheridan College in April 2017.
 - 3 years’ experiences as a field service engineer in IBM Subsidiary Company.
 - 6 year’ experiences as a technical support engineer Intralot.
 
@@ -27,16 +27,17 @@ I am looking for a job opportunity as a software developer.
 
 ### ROLES
 
-* Technical Support engineer, Intralot.
+* Software Developer, FarmHealthMonitor.
+* Product Support engineer, Intralot.
 * Field Service Engineer, IBM Subsidiary Company.
 
 ### SKILLS
 
-* **Skill 1** - `Java` / `JSP` / `Spring` / `Android`
-* **Skill 2** - `C#` / `ASP.NET` / `ADO.NET` / `ASP.NET Core MVC6`
-* **Skill 3** - `JavaScript` / `CSS` / `HTML5` / `JQuery`/ `JQuery Mobile`/ `JSON`/ `Ajax` / `React` / `Redux`
-* **Skill 4** - `Orable` / `MS SQL` / `MY SQL` / `MongoDB`
-* **Skill 5** - `Linux` / `Windows Server 2012R2`
+* **Java** - `Java` / `JSP` / `Spring` / `Android`
+* **C#** - `C#` / `ASP.NET` / `ADO.NET` / `ASP.NET Core MVC6`
+* **Web** - `JavaScript` / `CSS` / `HTML5` / `JQuery`/ `JQuery Mobile`/ `JSON`/ `Ajax` / `React` / `Redux`
+* **Database** - `Orable` / `MS SQL` / `MY SQL` / `MongoDB`
+* **Server** - `Linux` / `Windows Server 2012R2`
    
 
 
