@@ -35,8 +35,8 @@ Hello, My name is Gil Lee.I graduated from Sheridan college in 2017 and majored 
 
 * **Java** - `Java` / `JSP` / `Spring` / `Android`
 * **C#** - `C#` / `ASP.NET` / `ADO.NET` / `ASP.NET Core MVC6`
-* **Web** - `JavaScript` / `CSS` / `HTML5` / `JQuery`/ `JQuery Mobile`/ `JSON`/ `Ajax` / `React` / `Redux` / `Vue` / `Vuex`
-* **Database** - `Orable` / `MS SQL` / `MY SQL` / `MongoDB`
+* **Web** - `JavaScript` / `CSS` / `HTML5` / `JQuery`/ `JQuery Mobile`/ `JSON`/ `Ajax` / `React` / `Redux` / `Vue` / `Vuex`/ `Vuetify` / `ChartJS`/ `HighChartJS`
+* **Database** - `Orable` / `MS SQL` / `MY SQL` / `MongoDB` / `Firebase`
 * **Server** - `Linux` / `Windows Server 2012R2`
    
 
