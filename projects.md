@@ -5,6 +5,17 @@ permalink: /projects/
 ---
 <span style="color:red">*Please click the title of project to see Code and more detail!!*</span>
 
+
+### [Stock Trading Game_ Vue & Firebase, 2018 ](https://github.com/YounggilLee/Vue_Stock_Trader) 
+This application is a stock trading game. You can buy and sell stocks to get the money. 
+*	Building front end side with Vuex and Vuex-router
+*	Requests to server via RESTful Web Service using Firebase
+*	Authorised users using Firebase
+*	Used Axios for requesting data(Asynchronous)
+*	Authenticate user input using Vueliate
+*   Managed version using GitHub
+
+***
 ### [Email Survey System_ React, Node & MongoDb, 2017 ](https://github.com/YounggilLee/Email_Survey_System) 
 Designed and created applications to allow people to check customers’ trends by email 
 *	Implemented external interface with React and Redux front-end
