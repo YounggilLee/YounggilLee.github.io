@@ -1,17 +1,12 @@
 ---
 layout: post
-title: What is AngularJS?
+title: What is Vue?
 author: Author Name
 ---
 
-AngularJS is a JavaScript-based open-source front-end web application framework.
-
+Vue (pronounced /vjuː/, like view) is a progressive framework for building user interfaces.
 ## It's declarative  
 -----
 
-The AngularJS framework works by first reading the HTML page, which has embedded into it additional custom tag attributes.
-
-Angular interprets those attributes as directives to bind input or output parts of the page to a model that is represented by standard JavaScript variables.
-
-The values of those JavaScript variables can be manually set within the code, or retrieved from static or dynamic JSON resources.
+Unlike other monolithic frameworks, Vue is designed from the ground up to be incrementally adoptable. The core library is focused on the view layer only, and is easy to pick up and integrate with other libraries or existing projects. On the other hand, Vue is also perfectly capable of powering sophisticated Single-Page Applications when used in combination with modern tooling and supporting libraries.
 
