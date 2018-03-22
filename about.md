@@ -15,9 +15,9 @@ Hello, My name is Gil Lee.I graduated from Sheridan college in 2017 and majored 
 
 ### PROGRAMS HIGHLIGHTS:
 - Software development in Java, C#, Spring, Android
-- Web technologies and web application development (HTML, CSS, JavaScript,Vue, Vuex, React, Redux, jQuery, Node.js, jQuery Mobile, Bootstrap)
-- Relational database management design and management
-- Networking, sub netting, static and dynamic routing and virtual LAN
+- Web technologies and web application development (HTML, CSS, JavaScript,Vue, Vuex, React, Redux, jQuery, Node.js, jQuery Mobile,Vuetify, Bootstrap)
+- Relational Database management design and management
+- Networking, Sub netting, static and dynamic routing and virtual LAN
 
 ### EDUCATION
 
@@ -28,7 +28,7 @@ Hello, My name is Gil Lee.I graduated from Sheridan college in 2017 and majored 
 ### ROLES
 
 * Software Developer, FarmHealthMonitor.
-* Product Support engineer, Intralot.
+* Product Support Engineer, Intralot.
 * Field Service Engineer, IBM Subsidiary Company.
 
 ### SKILLS
