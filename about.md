@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello, My name is Gil Lee.I graduated from Sheridan college in 2017 and majored in Computer Programmer. Also, I have multiple years of work experience as a field engineer and technical support engineer. I am working Farmhealthmonitor as a software developer. 
+Hello, My name is Gil Lee.I graduated from Sheridan college in 2017 and majored in Computer Programmer. Also, I have multiple years of work experience as a field engineer and technical support engineer. I am working Farmhealthmonitor as a full stack developer. 
 
 ### QUALIFICATION HIGHLIGHTS:
 
@@ -27,7 +27,7 @@ Hello, My name is Gil Lee.I graduated from Sheridan college in 2017 and majored 
 
 ### ROLES
 
-* Software Developer, FarmHealthMonitor.
+* Full Stack Developer, FarmHealthMonitor.
 * Product Support Engineer, Intralot.
 * Field Service Engineer, IBM Subsidiary Company.
 
