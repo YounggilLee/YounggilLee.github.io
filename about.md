@@ -8,10 +8,16 @@ Hello, My name is Gil Lee.I graduated from Sheridan college in 2017 and majored 
 
 ### QUALIFICATION HIGHLIGHTS:
 
-- Current working as a software developer.
-- Computer Programmer Diploma at Sheridan College in April 2017.
-- 3 years’ experiences as a field service engineer in IBM Subsidiary Company.
-- 6 year’ experiences as a product support engineer Intralot.
+- Full Stack Developer in Farm Health Monitor
+- Computer Programming Diploma at Sheridan College
+-	Vue for 1 Year(Vuex)
+-	GraphQL for 1 Year(Apollo)
+-	Docker for 1 Year
+-	React for 1 Year(Redux)
+-	Java for 1 Year (JSP, Spring & Android)
+-	C# for 1 Year (ASP.NET, ADO.NET, & MVC6 Core)
+-	Oracle, Firebase, MySQL & MongoDB for 1Year(PL/SQL)
+-	Oracle Certified (10G-Administrator Association & Professional)
 
 ### PROGRAMS HIGHLIGHTS:
 - Software development in Java, C#, Spring, Android
