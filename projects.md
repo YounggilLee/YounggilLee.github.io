@@ -5,11 +5,11 @@ permalink: /projects/
 ---
 <span style="color:red">*Please click the title of project to see Code and more detail!!*</span>
 
-### [Transporting livestock monitoring system Vue & Crossbar, 2018 ]
+### [Transporting livestock monitoring system Vue & Node.js]
 Build an application that allows stakeholders to monitor their livestocks during tansporting
 *	Build front end side with Vuex and Vuex-router
 *	Set up server side in Digtal Ocean using Docker
-*	Requests to server via Autobahn
+*	Requests to server via Restful API
 *	Use Crossbar for requesting data(Asynchronous)
 *	Authenticate user input using Vuetify
 *   Save data to Mongodb using Mongoose
