@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Hello, My name is Gil Lee.I graduated from Sheridan college in 2017 and majored in Computer Programmer. Also, I have multiple years of work experience as a technical support engineer. I am working Farmhealthmonitor as a full stack developer. 
+Hello, My name is Gil Lee.I have multiple years of work experience as a technical support engineer. I am working JRS virtual studio as a full stack developer. 
 
 ### QUALIFICATION HIGHLIGHTS:
 
-- Full Stack Developer in Farm Health Monitor
+- Full Stack Developer in JRS virtual studio
 - Computer Programming Diploma at Sheridan College
 -	Vue for (Vuex)
 -	GraphQL (Apollo)
